@@ -1,5 +1,6 @@
 
 //Importing React here, cos jsx is converted into vanilla js by React
+//Precisely via Babel js engine
 import React from 'react';
 
 //Import styles
